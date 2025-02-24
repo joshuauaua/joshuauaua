@@ -1,7 +1,9 @@
 ## I'm Joshua 👋
 
 
-[![joshuauaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my code stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=joshuauaua&show_icons=true"/>
+
+<img alt="my top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuauaua&layout=compact"/>
 
 
 
