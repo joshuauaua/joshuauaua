@@ -2,7 +2,7 @@
 
 <img alt="my top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuauaua&layout=compact"/>
 
-
+![Joshuauaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuauaua&show_icons=true&theme=radical)
 
 
 <!--
