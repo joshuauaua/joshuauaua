@@ -8,8 +8,3 @@
 - 💬 Ask me about Web Audio API
 - 📫 How to reach me: joshua@sonicassembly.se
 -->
-
-
-
-.. image:: https://wakatime.com/share/@03a812ff-1121-47ac-862f-08dfb16a51b4/da8ec534-50ed-4c7f-8de2-d2317fec006f.png
-    :target: https://wakatime.com/
