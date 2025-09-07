@@ -2,6 +2,7 @@
 
 <img alt="my top langs" align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuauaua&layout=compact&theme=radical"/>
 
+- 😎 I'm a fullstack developer with a background as a project leader in the creative industries
 - 🔭 I’m currently seeking an internship as a fullstack .NET developer between 12/2025 and 05/2026
 - 🌱 I’m currently learning P5.js, ASP.NET MVC, Blazor
 - 👯 I’m looking to collaborate on creative coding projects
