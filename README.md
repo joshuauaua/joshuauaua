@@ -1,30 +1,34 @@
-I'm Joshua 👋
-😎 Fullstack Developer with a background in the creative industries.
-🌱 Currently Leveling Up: P5.js, ASP.NET Core, and Pure Data.
-👯 Collaboration: Open to creative coding, generative art, and audio-tech projects.
-💬 Ask me about: HLS, FFmpeg, Web Audio API, and DSP.
-📫 Reach me: joshjoelng@gmail.com
+## I'm Joshua 👋
 
-Currently building
+- 😎 **Fullstack Developer** with a background in the creative industries
+- 🌱 **Currently learning:** P5.js, ASP.NET, Pure Data
+- 👯 **Looking to collaborate:** Creative coding and audio-tech projects
+- 💬 **Ask me about:** HLS, FFMPEG, Web Audio API
+- 📫 **How to reach me:** [joshjoelng@gmail.com](mailto:joshjoelng@gmail.com)
 
-Open Audio Streaming Kit | C# .NET FFmpeg HLS
-A robust backend boilerplate for custom streaming services. Includes HLS segmenting, authentication logic, and automated media processing.
+---
 
-Sonic Assembly | Web Stack Sound Design
-The digital home for my creative sound studio. Delivering audio tech solutions and original scores for brands like Google and Fujifilm.
+### 🛠️ Featured Projects
 
-Hyper Radio | Community Tech
-The "Anti-Spotify." A hyper-local streaming service focused on geographic community discovery rather than global algorithms.
+#### 🔊 Audio Tech & Streaming
+* **[Open Audio Streaming Kit](https://github.com/joshuauaua/Open-Audio-Streaming-Kit)**
+    * Backend project in C# for building your own streaming service. Features FFmpeg integration, HLS functionality, and full auth logic.
+* **[Sonic Assembly](https://github.com/joshuauaua/sonic-assembly)**
+    * Website for my creative sound studio. Providing tailored sound design and audio tech solutions for brands including **Google** and **Fujifilm**.
+* **[Hyper Radio](https://github.com/Hyper-Radio)**
+    * The anti-Spotify streaming service. Instead of competing in global algorithms, artists appeal to listeners in their own local backyards.
 
+#### 📊 Data & Insights
+* **[Artist Ledger](https://github.com/joshuauaua/artist-insight-tool)**
+    * Built in the Ivy Framework to centralize and normalize revenue streams (merch, royalties, concerts). Allows artists to drop in CSVs to visualize hidden patterns in their data.
+* **[Vibechecker](https://github.com/joshuauaua/vibechecker)**
+    * Analyzes songs via the Spotify API to return technical metrics like "danceability" and energy.
 
-Artist Ledger | Ivy Framework Data Viz
-A financial hub for artists. Drag-and-drop CSV/Excel integration to normalize and visualize revenue streams across merch, royalties, and touring.
+#### 🤖 Machine Learning
+* **[Velosonics](https://github.com/joshuauaua/TeachableMachine_React_Audio)**
+    * Audio categorizer built with TensorFlow to detect maintenance issues in delivery bikes based on sound signatures.
 
-Vibechecker | Spotify API Web Audio
-Deep-dive song analysis tool. Extracts metrics like "danceability," energy, and valence to provide technical insights into musical mood.
+---
 
-Velosonics | TensorFlow React
-Audio-based predictive maintenance. Uses machine learning to detect mechanical issues in delivery bikes based on acoustic signatures.
-
-🧰 Tech Stack
-C# ASP.NET JavaScript React FFmpeg Web Audio API TensorFlow Pure Data
+### ⚙️ Tech Stack
+`C#` `ASP.NET` `JavaScript` `React` `FFmpeg` `Web Audio API` `TensorFlow` `Pure Data`
