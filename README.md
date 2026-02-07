@@ -1,7 +1,7 @@
 ## I'm Joshua 👋
 
 - 😎 **Fullstack Engineer** with a background in the creative industries
-- 🌱 **Currently learning:** P5.js, .NET, Ivy, Node
+- 🌱 **Currently learning:** P5.js, .NET, Ivy, Node.js
 - 👯 **Looking to collaborate:** Creative coding and audio-tech projects
 - 💬 **Ask me about:** HLS, FFMPEG, Web Audio API
 - 📫 **How to reach me:** [joshjoelng@gmail.com](mailto:joshjoelng@gmail.com)
