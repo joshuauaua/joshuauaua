@@ -12,7 +12,7 @@
     : The anti-Spotify. Instead of competing in global algorithms, artists appeal to listeners in their own local backyards.
 
 **[Artist Ledger](https://github.com/joshuauaua/artist-insight-tool)**
-    : Centralize and normalize revenue streams (merch, royalties, concerts). Allows artists to drop in CSVs to visualize hidden patterns in their data. Build with the Ivy Framework.
+    : ELT pipeline for artists. Centralize and normalize revenue streams (merch, royalties, concerts). Drop in CSVs to visualize hidden patterns in your data. Build with the Ivy Framework.
 
 **[Vibechecker](https://github.com/joshuauaua/vibechecker)**
     : Analyzes songs via the Spotify API to return technical metrics like "danceability" and energy.
