@@ -8,6 +8,9 @@
 
 ### 🛠️ Currently building
 
+**[Ambient Journal](https://ambient-journal.vercel.app/)**
+    : Turn your thoughts into a unique, real-time soundscape.  
+
 **[Hyper Radio](https://github.com/Hyper-Radio)**
     : The anti-Spotify. Instead of competing in global algorithms, artists appeal to listeners in their own local backyards.
 
