@@ -10,20 +10,11 @@
 **[Ambient Journal](https://ambient-journal.vercel.app/)**
     : Turn your thoughts into a unique, real-time soundscape.  
 
-**[Hyper Radio](https://github.com/Hyper-Radio)**
-    : The anti-Spotify. Instead of competing in global algorithms, artists appeal to listeners in their own local backyards.
-
-**[Artist Ledger](https://github.com/joshuauaua/artist-insight-tool)**
-    : ELT pipeline for artists. Centralize and normalize revenue streams (merch, royalties, concerts). Drop in CSVs to visualize hidden patterns in your data. Build with the Ivy Framework.
-
-**[Vibechecker](https://github.com/joshuauaua/vibechecker)**
-    : Analyzes songs via the Spotify API to return technical metrics like "danceability" and energy.
-
 **[Velosonics](https://github.com/joshuauaua/TeachableMachine_React_Audio)**
     : Audio categorizer built with TensorFlow to detect maintenance issues in delivery bikes based on sound signatures.
 
-**[Open Audio Streaming Kit](https://github.com/joshuauaua/Open-Audio-Streaming-Kit)**
-    : Build your own streaming service backend kit. Features FFmpeg integration, HLS functionality, blob storage upload service and full auth logic written entirely in C#.
+**[Placer](https://github.com/joshuauaua/Placer)**
+    : Interactive Participatory Urban Design Toolkit commissioned by the Swedish Institute
 
 **[Sonic Assembly](https://github.com/joshuauaua/sonic-assembly)**
     : Website for my creative sound studio. Providing tailored sound design and audio tech solutions for brands including **Google** and **Fujifilm**.
